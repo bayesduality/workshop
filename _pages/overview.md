@@ -7,9 +7,9 @@ classes: wide
 
 
 --------------------------------------
-# 1st Bayes-Duality Workshop
+# Bayes-Duality Workshop
 
-## June 15-16, 19-23, 26-27 Japan.
+## June 15-27, Japan
 
 {: style="text-align: justify" }
 

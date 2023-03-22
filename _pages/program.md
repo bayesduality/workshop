@@ -7,7 +7,7 @@ classes: wide
 
 # Program (Tentative)
 
-The seminar is divided into three parts, Part 1 and 3 hosted at RIKEN AIP Nihonbashi that focus on discussing the big-picture goals of the overall project. This will include several talks and also individual meetings and activities between the attendees. Part 2 will be on Izuyama Training Center, here the focus is on more detailed talks about individual projects, with hands-on activities to work out some of the details together. We also hope to figure out immediate projects that some of us could work together on in the near future.
+The seminar is divided into three parts, Part 1 and 3 hosted at RIKEN AIP Nihonbashi that focus on discussing the big-picture goals of the overall project. This will include several talks and also individual meetings and activities between the attendees. Part 2 will be on Izuyama Training Center, here the focus is on more detailed talks about individual projects, with hands-on activities to work out some of the details together. We also hope to figure out immediate projects that some of us could work on together in the near future.
 
 ### Part 1 June 15-16 RIKEN AIP Nihonbashi
 

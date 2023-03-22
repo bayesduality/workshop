@@ -5,7 +5,7 @@ main:
     url: /participants/
   - title: "Program"
     url: /program/
-  - title: "About"
-    url: https://bayesduality.github.io/
+  #- title: "About"
+  #  url: https://bayesduality.github.io/
   #- title: "Organizers"
   #  url: /organizers/
