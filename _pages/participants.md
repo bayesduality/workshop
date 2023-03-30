@@ -51,3 +51,4 @@ classes: wide
 - Frank Nielsen, Sony AI, Tokyo
 - Paul Chang, Aalto university, Finland
 - Dharmesh Tailor, University of Amsterdam, Netherlands
+- Siddharth Swaroop, SEAS, Harvard University.
