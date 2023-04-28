@@ -13,17 +13,15 @@ classes: wide
 - Emtiyaz Khan
 - Thomas Möllenhoff 
 - Gian Maria Marconi
-- Lu Xu
 - Happy Buzaaba
 - Hugo Monzon
 - Negar Safinianaini
 - Geoffrey Wolfer
 - Peter Nickl
-
+- Yuesong Shen, ABI Intern (Technical University of Munich, Germany)
 
 ## Math-Science team, RIKEN
 - Kenichi Bannai, Keio University/RIKEN
-- Benoît Collins, Kyoto University
 - Kei Hagihara, Keio University
 - Eren Mehmet Kiral, RIKEN/Keio University
 - Akiyoshi Sannai, Kyoto University/Keio University
@@ -45,10 +43,11 @@ classes: wide
 ## Invited Speakers
 - Marc Deseinroth, UCL, UK
 - Martin Mundt, TU Darmstadt, Germany
+- Nico Daheim, TU Darmstadt, Germany
 - Jonghyun Choi, Yonsei University, South Korea
 - Pierre Alquier, ESSEC Business school, Singapore
 - Haavard Rue, KAUST, Saudi Arabia
 - Frank Nielsen, Sony AI, Tokyo
 - Paul Chang, Aalto university, Finland
 - Dharmesh Tailor, University of Amsterdam, Netherlands
-- Siddharth Swaroop, SEAS, Harvard University.
+- Siddharth Swaroop, SEAS, Harvard University, USA
