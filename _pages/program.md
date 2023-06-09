@@ -8,7 +8,7 @@ classes: wide
 # Program
 
 The workshop will be held in-person from June 15 - 27 at both the <a href= "https://aip.riken.jp/access/">RIKEN AIP office in Nihombashi</a> and at <a href= "https://izusan.zen-hd.co.jp/access/">Izusan Learning Center</a>. 
-Below is the outline of the workshop. All times are in Japan Standard Time (JST).
+Below is the tentative outline of the workshop. All times are in Japan Standard Time (JST).
 
 | Time          | Item              | Speaker           |
 |---------------|-------------------|-------------------|
@@ -30,7 +30,16 @@ Below is the outline of the workshop. All times are in Japan Standard Time (JST)
 | 16:00 - 17:30 | Invited Talk      | Dharmesh Tailor   |
 | 18:00 ~       | Social Gathering  | tba               |
 | ------------- | ----------------- | ----------------- |
-
+|               | June 19           |                   |
+| ~ 12:00       | Arrive at Venue   |                   |
+| 12:00 - 14:30 | Lunch Break       |                   |
+| 14:30 - 15:00 | Introduction      | Participants      |
+| 15:00 - 15:30 | Logistics         | Emtiyaz Khan      | 
+| 15:30 - 16:00 | Coffee Break      |                   |
+| 16:00 - 17:00 | Select Topics     | tba               |
+| 17:00 - 1900  |                   | tba               |
+| 19:00 - 20:00 | Dinner            | On site           |
+| ------------- | ----------------- | ----------------- |
 
 List indicates the invited attendees present at each part.
 #### June 15-16 (Part 1) RIKEN AIP Nihonbashi  
