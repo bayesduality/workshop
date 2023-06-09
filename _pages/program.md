@@ -10,17 +10,17 @@ classes: wide
 The workshop will be held in-person from June 15 - 27 at both the <a href= "https://aip.riken.jp/access/">RIKEN AIP office in Nihombashi</a> and at <a href= "https://izusan.zen-hd.co.jp/access/">Izusan Learning Center</a>. 
 Below is the outline of the workshop. All times are in Japan Standard Time (JST).
 
-| Time | Item                         |Speaker|
-|-|------------------------------|-|
-|| June 15                      ||
-| 1hr | Invited Speaker Talk         |
-| 1hr | Contributed Speaker Talk     |
-| 1hr | Contributed Speaker Talk     |
-| 1hr | Lunch break                  |
-| 2hrs | Discussion among groups      |
-| 1hrs | Talk by a Contributed Speaker |
-| 30min | Coffee break and networking  |
-| 2hrs | Panel discussion             |
+| Time    |  Item         | Speaker |
+|---------|---------------|---------|
+|         | June 15       |         |
+| 1hr     | Invited Speaker Talk |
+| 1hr     | Contributed Speaker Talk |
+| 1hr     | Contributed Speaker Talk |
+| 1hr     | Lunch break   |
+| 2hrs    | Discussion among groups |
+| 1hrs    | Talk by a Contributed Speaker |
+| 30min   | Coffee break and networking |
+| 2hrs    | Panel discussion |
 
 
 List indicates the invited attendees present at each part.
