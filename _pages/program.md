@@ -15,7 +15,7 @@ Below is the tentative outline of the workshop. All times are in Japan Standard 
 |               | June 15            |                    |
 | 10:30 - 10:50 | Coffee Break       |                    |
 | 10:50 - 11:00 | Opening Remarks    | Emtiyaz Khan       |
-| 11:00 - 12:30 | Invited Talk       | Marc Deseinroth    |
+| 11:00 - 12:30 | Invited Talk       | Marc Deisenroth    |
 | 12:30 - 14:00 | Lunch Break        |                    | 
 | 14:00 - 15:30 | Invited Talk       | Haavard Rue        |
 | 15:30 - 16:00 | Coffee Break       |                    |
