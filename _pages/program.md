@@ -50,7 +50,7 @@ Below is the tentative outline of the workshop. All times are in Japan Standard 
 | 18:00 - 20:00 | Dinner             | Provided on site   |
 | ------------- | -----------------  | -----------------  |
 |               | June 21            |                    |
-| 07:30 - 09:00 | Breakfast          | On site            |
+| 07:30 - 09:00 | Breakfast          | Provided on site   |
 | 09:30 - 12:00 | Group PI Talk      | Kenich Bannai      |
 | 12:00 - 13:00 | Lunch Break        | Provided on site   |
 | 13:30 - 15:30 | Topic discussion   | Participant groups | 
