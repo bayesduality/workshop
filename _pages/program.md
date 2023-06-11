@@ -37,7 +37,7 @@ Below is the tentative outline of the workshop. All times are in Japan Standard 
 | 15:00 - 15:30 | Logistics          | Emtiyaz Khan       | 
 | 15:30 - 16:00 | Coffee Break       |                    |
 | 16:00 - 17:00 | Select Topics      | tba                |
-| 17:00 - 1900  |                    | tba                |
+| 17:00 - 1900  | Hotel checkin      | Participants       |
 | 19:00 - 20:00 | Dinner             | On site            |
 | ------------- | -----------------  | -----------------  |
 |               | June 20            |                    |
@@ -90,34 +90,3 @@ Below is the tentative outline of the workshop. All times are in Japan Standard 
 | 16:00 - 17:30 | Group Discussion   | Individual Group   |
 | 17:30 - 18:00 | Closing Remarks    | Emtiyaz Khan       |
 | ------------- | -----------------  | -----------------  |
-
-List indicates the invited attendees present at each part.
-#### June 15-16 (Part 1) RIKEN AIP Nihonbashi  
-- Marc Deseinroth, UCL
-- Martin Mundt, TU Darmstadt
-- Nico Daheim, TU Darmstadt
-- Haavard Rue, KAUST
-- Paul Chang, Aalto university
-- Dharmesh Tailor, University of Amsterdam
-- Siddharth Swaroop, SEAS, Harvard University
-
-#### June 19-23 (Part 2) Izuyama Learning Center
-- Marc Deseinroth, UCL
-- Martin Mundt, TU Darmstadt
-- Nico Daheim, TU Darmstadt
-- Pierre Alquier, ESSEC Business school, Singapore
-- Haavard Rue, KAUST
-- Paul Chang, Aalto university
-- Dharmesh Tailor, University of Amsterdam
-- Siddharth Swaroop, SEAS, Harvard University
-
-#### June 26-27 (Part 3) RIKEN AIP Nihombashi
-- Marc Deseinroth, UCL
-- Martin Mundt, TU Darmstadt
-- Nico Daheim, TU Darmstadt
-- Jonghyun Choi, Yonsei University, South Korea
-- Pierre Alquier, ESSEC Business school, Singapore
-- Paul Chang, Aalto university
-- Frank Nielsen, Sony AI, Tokyo
-- Dharmesh Tailor, University of Amsterdam
-- Siddharth Swaroop, SEAS, Harvard University
