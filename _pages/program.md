@@ -60,7 +60,7 @@ Below is the tentative outline of the workshop. All times are in Japan Standard 
 | ------------- | -----------------  | -----------------  |
 |               | June 22            |                    |
 | 07:30 - 09:00 | Breakfast          | On site            |
-| 09:30 - 12:00 | Group PI Talk      | Riyo Yokota        |
+| 09:30 - 12:00 | Group PI Talk      | Rio Yokota         |
 | 12:00 - 13:00 | Lunch Break        | On site            |
 | 13:30 - 15:30 | Topic discussion   | Participant groups | 
 | 15:30 - 16:00 | Coffee Break       |                    |
@@ -79,7 +79,7 @@ Below is the tentative outline of the workshop. All times are in Japan Standard 
 | 12:30 - 14:00 | Lunch Break        | tba                |
 | 14:00 - 15:30 | Invited Talk       | Jonghyun Choi      |
 | 15:30 - 16:00 | Coffee Break       |                    |
-| 16:00 - 17:30 | Invited Talk       | Frank Nielson      |
+| 16:00 - 17:30 | Invited Talk       | Frank Nielsen      |
 | ------------- | -----------------  | -----------------  |
 |               | June 27            |                    |
 | 10:30 - 11:00 | Coffee Break       |                    |
