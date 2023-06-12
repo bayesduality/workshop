@@ -7,7 +7,16 @@ classes: wide
 
 # Participants
 
-(Affiliations omitted for RIKEN participants)
+## Invited Speakers
+- Marc Deseinroth, UCL, UK
+- Martin Mundt, TU Darmstadt, Germany
+- Nico Daheim, TU Darmstadt, Germany
+- Jonghyun Choi, Yonsei University, South Korea
+- Pierre Alquier, ESSEC Business school, Singapore
+- Haavard Rue, KAUST, Saudi Arabia
+- Frank Nielsen, Sony AI, Tokyo
+- Dharmesh Tailor, University of Amsterdam, Netherlands
+- Siddharth Swaroop, SEAS, Harvard University, USA
 
 ## ABI Team, RIKEN
 - Emtiyaz Khan
@@ -40,14 +49,4 @@ classes: wide
 - Konstantinos Pitas, Inria Grenoble Rhône-Alpes, France
 - Pierre Wolinski, Inria Grenoble Rhône-Alpes, France
 
-## Invited Speakers
-- Marc Deseinroth, UCL, UK
-- Martin Mundt, TU Darmstadt, Germany
-- Nico Daheim, TU Darmstadt, Germany
-- Jonghyun Choi, Yonsei University, South Korea
-- Pierre Alquier, ESSEC Business school, Singapore
-- Haavard Rue, KAUST, Saudi Arabia
-- Frank Nielsen, Sony AI, Tokyo
-- Paul Chang, Aalto university, Finland
-- Dharmesh Tailor, University of Amsterdam, Netherlands
-- Siddharth Swaroop, SEAS, Harvard University, USA
+
