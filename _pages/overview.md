@@ -41,7 +41,6 @@ Here is the tentative outline of the workshop <a href= "https://docs.google.com/
 - Gian Maria Marconi
 - Happy Buzaaba
 - Hugo Monzon
-- Negar Safinianaini
 - Geoffrey Wolfer
 - Peter Nickl
 - Keigo Nishida
