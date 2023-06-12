@@ -17,6 +17,8 @@ First workshop of the <a href= "https:/bayesduality.github.io">Bayes-duality pro
 Members of the ML community will join to give talks and discuss with project members their work. 
 The organizers hope is that this workshop leads to an increase in the impact and outreach of the project as well as helping members expand their networks.
 
+This workshop is partially supported by the Bayes-Duality Project, JST CREST Grant Number JPMJCR2112: “A new Bayes-duality principle for adaptive, robust, and lifelong learning of AI systems”.
+
 ## Program
 
 The workshop will be held in-person from June 15 - 27 at both the <a href= "https://aip.riken.jp/access/">RIKEN AIP office in Nihombashi</a> and at <a href= "https://izusan.zen-hd.co.jp/access/">Izusan Learning Center</a>. 
@@ -64,10 +66,4 @@ Here is the tentative outline of the workshop <a href= "https://docs.google.com/
 
 ### Stat-Theory team 
 - Konstantinos Pitas, Inria Grenoble Rhône-Alpes, France
-
-
-
-
-
-This workshop is partially supported by the Bayes-Duality Project, JST CREST Grant Number JPMJCR2112: “A new Bayes-duality principle for adaptive, robust, and lifelong learning of AI systems”.
 
