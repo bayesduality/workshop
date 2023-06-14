@@ -4,6 +4,7 @@ title: "First Workshop on Bayes-Duality"
 layout: splash
 classes: wide
 ---
+# The First Bayes-Duality Workshop
 
 ## Program
 
@@ -15,7 +16,7 @@ The tentative program is <a href= "https://docs.google.com/document/d/e/2PACX-1v
 
 {: style="text-align: justify" }
 
-First workshop of the <a href= "https:/bayesduality.github.io">Bayes-duality project</a> to be held physically in Japan. This meeting main goal is to discuss long and short term goals while fostering collaboration among its attendees. It will also give the opportunity to share its members recent work, published or ongoing.
+The first workshop of the <a href= "https:/bayesduality.github.io">Bayes-duality project</a> to be held physically in Japan. This meeting main goal is to discuss long and short term goals while fostering collaboration among its attendees. It will also give the opportunity to share its members recent work, published or ongoing.
 Members of the ML community will join to give talks and discuss with project members their work. 
 The organizers hope is that this workshop leads to an increase in the impact and outreach of the project as well as helping members expand their networks.
 
