@@ -37,7 +37,7 @@ Here is the tentative outline of the workshop <a href= "https://docs.google.com/
 - Jonghyun Choi, Yonsei University, South Korea
 - Pierre Alquier, ESSEC Business school, Singapore
 - Haavard Rue, KAUST, Saudi Arabia
-- Frank Nielsen, Sony AI, Tokyo
+- Frank Nielsen, Sony CSL, Tokyo
 - Dharmesh Tailor, University of Amsterdam, Netherlands
 - Siddharth Swaroop, SEAS, Harvard University, USA
 
